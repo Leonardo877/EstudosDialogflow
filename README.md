@@ -15,3 +15,5 @@ Este repositório é dedicado para pessoas que queriam aprender mais sobre Chatb
 <a href="https://www.facebook.com/Law-Talk-2048484982061789/?modal=admin_todo_tour">Law Talk</a>
 <p>
 <a href="https://www.facebook.com/Limapythonjp/">Lima Python</a>
+<p>
+ <a href ="https://www.facebook.com/zekispeak/">Zeki Speak</a>
