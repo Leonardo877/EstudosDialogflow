@@ -6,7 +6,8 @@ Este repositório é dedicado para pessoas que queriam aprender mais sobre Chatb
  <a href="https://www.facebook.com/groups/chatbotbrasil/?ref=bookmarks">Grupo Bots Brasil</a>
 <p>
  <a href="https://dialogflow.com/docs/getting-started">Documentação Dialogflow</a>
-
+<p>
+ <a href="https://medium.com/botsbrasil">Medium Bots Brasil<a/>
 <p>
 <h2>Bots feitos com Dialogflow</h2>
 <p>
