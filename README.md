@@ -9,7 +9,7 @@ Este repositório é dedicado para pessoas que queriam aprender mais sobre Chatb
 <p>
  <a href="https://medium.com/botsbrasil">Medium Bots Brasil 📗<a/>
  <p>
-  <a href="https://web.telegram.org/#/im?p=s1129144101_7512722428208016578">Bot Caverna 👊🏽</a>
+  <a href="https://web.telegram.org/#/im?p=s1129144101_7512722428208016578  target="_blank"">Bot Caverna 👊🏽</a>
 <p>
 <h2>Bots feitos com Dialogflow</h2>
 <p>
