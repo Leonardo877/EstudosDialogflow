@@ -1,13 +1,15 @@
 # Estudos-Chatbots
 Este repositório é dedicado para pessoas que queriam aprender mais sobre Chatbots.
 <p>
- <a href = "https://www.youtube.com/channel/UCxQ4J7bCOgeHeu6k_XNxqqw/videos?view_as=subscriber">Canal YouTube</a>
+ <a href = "https://www.youtube.com/channel/UCxQ4J7bCOgeHeu6k_XNxqqw/videos?view_as=subscriber">Canal YouTube 😉</a>
 <p>
- <a href="https://www.facebook.com/groups/chatbotbrasil/?ref=bookmarks">Grupo Bots Brasil</a>
+ <a href="https://www.facebook.com/groups/chatbotbrasil/?ref=bookmarks">Grupo Bots Brasil 👍🏼</a>
 <p>
- <a href="https://dialogflow.com/docs/getting-started">Documentação Dialogflow</a>
+ <a href="https://dialogflow.com/docs/getting-started">Documentação Dialogflow 💻</a>
 <p>
- <a href="https://medium.com/botsbrasil">Medium Bots Brasil<a/>
+ <a href="https://medium.com/botsbrasil">Medium Bots Brasil 📗<a/>
+ <p>
+  <a href="https://web.telegram.org/#/im?p=s1129144101_7512722428208016578">Bot Caverna 👊🏽</a>
 <p>
 <h2>Bots feitos com Dialogflow</h2>
 <p>
